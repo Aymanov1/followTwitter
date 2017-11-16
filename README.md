@@ -7,16 +7,16 @@
 <h4 align="center">A small app that helps a candidate/twitter user following a target's followers based on a strategy of marketing(NodeJs).</h4>
 
 <br><br>
-<p>HowdyBird is a **NodeJs** **sample** based on nodejs and twit library to follow a followers' target and increasing your followers' number.</p>
+<p>HowdyBird is a NodeJs sample based on nodejs and twit library to follow a followers' target and increasing your followers' number.</p>
 
 <br><br>
 ## Tools
 
 <ul>
-<li> **Node** **js** </li>
-<li> **Twit** **Library** </li>
-<li> **node-schedule** **Library** </li>
-<li> **async-foreach** **Library** </li>
+<li> Node js </li>
+<li> Twit Library </li>
+<li> node-schedule Library </li>
+<li> async-foreach Library </li>
 </ul>
 
 <br><br>
