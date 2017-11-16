@@ -53,11 +53,6 @@ var j = schedule.scheduleJob('5 0,3,6,9,12,15,18,21 * * *', function(){
   followTarget(StateFollow[indexx][0].toString(),parseInt(StateFollow[indexx][1]));
 });
 
-
-
-
-
-
 /**
   *@author Aymanov
   *function to follow an account's followers
