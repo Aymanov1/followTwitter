@@ -1,0 +1,20 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "bot for Marketing",
+  "main": "bot.js",
+  "scripts": {
+    "start":"node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Follow",
+    "hr",
+    "Tweet"
+  ],
+  "author": "aymanov",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
