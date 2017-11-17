@@ -6,7 +6,7 @@
   <br>
 <h4 align="center">A small app that helps a candidate/twitter user following a target's followers based on a strategy of marketing(NodeJs).</h4>
 
-<br><br>
+<hr>
 <p>HowdyBird is a NodeJs sample based on nodejs and twit library to follow a followers' target and increasing your followers' number.</p>
 
 <br><br>
